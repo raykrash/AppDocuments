@@ -2,7 +2,7 @@
 
 This app doesn’t collect user data. 
 This app doesn’t share user data with other companies or organizations
-Our Privacy Policy applies to all of the services offered by Flexi Timer App.
+Our Privacy Policy applies to all of the services offered by this App.
 
 Changes:
 Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page.  If the changes are significant, we will provide a more prominent notice.
